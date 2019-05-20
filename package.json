@@ -1,0 +1,20 @@
+{
+  "name": "calendar",
+  "version": "1.0.0",
+  "description": "Calendar for Reservations",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "author": "Mary Louise B. Hermosa",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^3.7.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
