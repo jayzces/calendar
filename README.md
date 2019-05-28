@@ -4,7 +4,7 @@ A reservation calendar that generates calendars based on the current date. It ge
 
 ## Installation instructions
 ```
-npm init
+npm install
 ```
 
 ## How to run
